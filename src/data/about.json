@@ -1,0 +1,38 @@
+{
+    "profile": [
+        {
+            "name": "Radwan Ahmed",
+            "aboutTitle": "WHY",
+            "aboutSubTitle": "Why need website",
+            "aboutDescription": "the thing's, companies I have worked for.",
+            "birthDay": "Semantic HTML",
+            "age": "Responsive CSS",
+            "Residence": "JavaScript (Jquery, React, etc)",
+            "Address": "Any Where In The World",
+            "Email": "radwananik.ra@gmail.com",
+            "Phone": "+880 18738-43384",
+            "Skype": "Radwan Anik",
+            "Freelance": "Available",
+            "social": "Twitter - @anik_radwank",
+            "messenger": "Messenger - 01796226729"
+        }
+    ],
+    "count": [
+        {
+            "Title": "Happy Clients",
+            "count": "20"
+        },
+        {
+            "Title": "Project Completed",
+            "count": "30"
+        },
+        {
+            "Title": "Tea/Coffee Cup",
+            "count": "1020"
+        },
+        {
+            "Title": "Line of Code",
+            "count": "10000"
+        }
+    ]
+}

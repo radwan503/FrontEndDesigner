@@ -1,0 +1,36 @@
+{
+    "experience": [
+        {
+            "year": "May 2019 - present (Front-End Engineer)",
+            "companyName": "TigerIT Bangladesh Ltd.",
+            "role1": "Creating semantic and accessible websites with HTML, CSS, transitions, and animations.",
+            "role2": "building, testing, maintaining and supporting large applications",
+            "role3": "Documented work and communicate issues when they arise",
+            "techStack":[
+                {
+                    "stack1":"HTML",
+                    "stack2":"CSS",
+                    "stack3":"JAVASCRIPT",
+                    "stack4":"REACT JS",
+                    "stack5":"IONIC"
+                }
+            ]
+        },
+        {
+            "year": "January 2019 - 2019 (UI Developer)",
+            "companyName": "Freelancer",
+            "role1": "Hand coding HTML5 and CSS3 also Test code across platforms and browsers",
+            "role2": "Responsive Design on to develop user interface on web and mobile",
+            "role3": "Slicing and enhancing of PSD files, creating pixel -perfect renderings.",
+            "techStack":[
+                {
+                    "stack1":"HTML",
+                    "stack2":"CSS",
+                    "stack3":"JAVASCRIPT",
+                    "stack4":"JQUERY"
+                    
+                }
+            ]
+        }
+    ]
+}
