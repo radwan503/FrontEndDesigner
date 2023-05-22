@@ -28,7 +28,7 @@ export default function Hero() {
             </div>
             <div className="resume">
               <a
-                href=".."
+                href="https://github.com/radwan503/FrontEndDesigner/blob/main/src/assets/IndustryBusinessTypeList.pdf"
                 rel="noopener noreferrer"
                 target="_blank"
                 type="file"

@@ -2,7 +2,7 @@
   "Web": [
     {
       "type": "featured",
-      "name": "QCOOM",
+      "name": "QCOOM-Ecommerce",
       "image": "",
       "description": "Development project from initial design through completion, optimizing cross browser for thousands of user. ",
       "demo": "https://qcoom.com.bd/",
@@ -57,7 +57,7 @@
     },
     {
       "type": "featured",
-      "name": "Admin",
+      "name": "Admin Panel",
       "image": "",
       "description": "Development project from initial design through completion, optimizing cross browser for thousands of user. ",
       "demo": "https://staging-admin.qfood.com.bd/login",
