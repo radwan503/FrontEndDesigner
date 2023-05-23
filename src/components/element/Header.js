@@ -17,13 +17,13 @@ export default function Header() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#skill">
-                SKILL
+              <a className="nav-link" href="#portfolio">
+                PORTFOLIO
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#portfolio">
-                PORTFOLIO
+              <a className="nav-link" href="#skill">
+                SKILL
               </a>
             </li>
             <li className="nav-item">
